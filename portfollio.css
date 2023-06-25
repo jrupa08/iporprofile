@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body{
+    font-family:'Merriweather', serif;
+    margin: 0px;
+    text-align: center;
+    color:gray;
+}
+h1{
+    font-family:'Sacramento', cursive;
+    font-size: 6em;
+    color:#66BFBF;  
+}
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:#66BFBF;
+    font-size: 2.5em;
+    font-weight: normal;
+    padding: 10px;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.profile img{
+    width:170px;
+    height: 150px;
+    border-radius: 50%;
+}
+h3{
+    font-family:'Montserrat', sans-serif;
+    color: #11999e;
+}
+hr{
+    border:6px dotted violet;
+    width: 4%;
+    border-bottom:none;
+    margin: 100px auto;
+}
+a{
+    color: #11999e;
+    margin: 10px 20px;
+    font-family:'Montserrat', sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    color: pink;
+}
+.middle-container{
+    margin: 100px;
+}
+.bottom-container{
+    margin-top: 20px;
+    background-color: #b1e6e6;
+    padding: 50px 0 20px;
+}
+.row-skills{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: center;
+}
+.pro{
+    text-decoration: underline;
+}
+.code-img{
+    width: 20%;
+    float: left;
+    margin-left: 30px;
+}
+.netflix-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.rupali-img
+{
+  width: 25%;
+  float: left;
+  margin-right:30px;
+}
+.Intro{
+    width: 30%;
+    margin: auto;
+    padding: 20px;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn{
+    background-color: #11999e;
+    border-radius: 8px;
+    color: white;
+    font-family:'Montserrat', sans-serif;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+
+}
+p{
+    line-height: 2;
+}
+.top-cloud{
+    position: absolute;
+    right: 700px;
+    top: 40px;
+}
+.bottom-cloud{
+    position: absolute;
+    right: 400px;
+    top: 300px;
+
+}
